@@ -20,6 +20,10 @@
 
 主题拆解、六个创意方向、推荐方案、执行清单、变体建议
 
+## 在线演示
+
+https://2077zpt-source.github.io/pt-zcool-poster-concept-sprint/
+
 ## 文件
 
 - `SKILL.md`: skill 主体文件
